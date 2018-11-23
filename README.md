@@ -1,5 +1,8 @@
 # boilerplate-graphql
 
+<img src="screen-subscription.png"/>
+<img src="screen-mutation.png"/>
+
 # Install
 
 ```javascript
