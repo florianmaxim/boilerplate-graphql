@@ -1,5 +1,6 @@
 # boilerplate-graphql
 
+<img src="screen3-web.png"/>
 <img src="screen2-subscription.png"/>
 <img src="screen1-mutation.png"/>
 
