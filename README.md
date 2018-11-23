@@ -1,7 +1,7 @@
 # boilerplate-graphql
 
-<img src="screen-subscription.png"/>
-<img src="screen-mutation.png"/>
+<img src="screen2-subscription.png"/>
+<img src="screen1-mutation.png"/>
 
 # Install
 
