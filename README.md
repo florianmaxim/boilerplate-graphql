@@ -25,13 +25,13 @@ npm start
 ```
 # Usage
 
-Listen for posts (subscriptions):
+Post added (Listen for subscriptions):
 
 ```javascript
 subscription {
   postAdded (
     post: {
-      text: "XXdddXXXXXXXXXXXX"
+      text: "Hello world!"
     }
   ) {text}
 }
